@@ -1,0 +1,12 @@
+/*
+/*/
+
+!/.gitignore
+!/README.md
+!/LICENSE
+
+!/hpp
+!/include
+!/lib
+!/src
+!/premake5.lua
