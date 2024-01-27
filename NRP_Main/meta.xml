@@ -1,0 +1,16 @@
+<meta>
+	<info name='NRP_Main' type='gamemode' version='1' author='Tracer' description='' gamemodes='' />
+
+	<script src='init.lua' type='server' cache='false' validate='true' />
+	<script src='server.lua' type='server' cache='false' validate='true' />
+	<script src='client.lua' type='client' cache='false' validate='true' />
+
+	<settings></settings>
+
+	<min_mta_version client='' server='' />
+
+	<aclrequest></aclrequest>
+
+	<oop>false</oop>
+	<download_priority_group>0</download_priority_group>
+</meta>
